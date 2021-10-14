@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Araujo 👋
+## Olá! Eu sou o Lucas Araujo 👋
 
 
 - 🌱 Atualmente estou aprendendo mais sobre C# .NET MVC
@@ -30,4 +30,3 @@
   <a href="https://www.instagram.com/lucas_z97/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-araujo-de-souza-b0b69a96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  ##
