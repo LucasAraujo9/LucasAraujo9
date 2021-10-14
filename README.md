@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo mais sobre C# .NET MVC
 - 📫 Entre em contato comigo.
-- ⚡ Curiosidades
+- ⚡ Curiosidades: Ainda não consegui minha primeira oportunidade profissional
 
 ##
 <div align="center">
