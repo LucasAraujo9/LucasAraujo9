@@ -3,7 +3,6 @@
 
 - 🌱 Atualmente estou aprendendo mais sobre C# .NET MVC
 - 📫 Entre em contato comigo.
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 ##
 <div align="center">
