@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Lucas Araujo 👋
+- 👨‍💼 Em busca da primeira oportunidade profissional
 - 🌱 Atualmente estou aprendendo mais sobre C# .NET MVC
 - 🎯 Interesse: C# MVC, API, JavaScript, MVC, .NET Core, SQL Server
 - 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 8° semestre.
@@ -14,7 +15,7 @@
   
   ##
   
-  ## Minhas skills :nerd_face:
+  ## Minhas skills 🤓
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +34,7 @@
 </div>
   
   ##
- ## Meus Contatos
+ ## Meus Contatos 📫
 <div> 
   <a href="https://api.whatsapp.com/send?phone=5511949171522&text=Ol%C3%A1%2C%20Lucas!%20Vi%20seu%20portf%C3%B3lio.%20Podemos%20conversar%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucas.arsza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
@@ -46,7 +47,7 @@
   
   <p align="center"> 
 
- ## Total de visitas no meu perfil :detective: <br>
+ ## Total de visitas no meu perfil 🕵️ <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/LucasAraujo9/count.svg" />
  </p>
