@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Lucas Araujo 👋
-- 👨‍💼 Analista Desenvolvedor C# Junior
+- 👨‍💼 Analista Desenvolvedor C# Pleno
 - 🌱 Aprendendo cada vez mais sobre C# .NET MVC
 - 🎯 Interesse: C# MVC, .NET Core, SQL Server
 - 👨‍🎓 Formado em Ciência da Computação
